@@ -6,3 +6,5 @@ In a flash, you feel yourself being sucked into the laptop. Your body breaks apa
 Suddenly, you hear a growl. The Bug, a terrifying creature made of broken code, appears and starts chasing you. It’s after you.
 
 To escape and return to the real world, you must find your way through this digital world, avoid glitches and pop-ups, and locate your workplace’s file system to delete the corrupted file causing all of this. The Bug is getting closer, and time is running out.
+
+## BEFORE STARTING THE GAME IN BASH RUN THE COMMAND ./start.sh
