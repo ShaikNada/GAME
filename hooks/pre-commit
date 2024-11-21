@@ -51,7 +51,7 @@ if [ -f "./ans.txt" ]; then
 
     exit 0  # Allow the commit
   else
-    echo -e "\e[31mError: The answer in ans.txt is incorrect. Expected: DECRYPT\e[0m"
+    echo -e "\e[31mError: The answer in ans.txt is incorrect.\e[0m"
     exit 1  # Prevent the commit
   fi
 else
