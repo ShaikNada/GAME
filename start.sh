@@ -1,6 +1,9 @@
 #!/bin/bash
-echo "Setting up Git hooks..."
 mv hooks/* .git/hooks/
 chmod +x .git/hooks/*
+if [ -f .git/hooks/pre-commit ]; then
+    chmod +x .git/hooks/pre-commit
+    echo "pre-commit hook is now executable."
+fi
 echo "Git hooks have been installed."
 rm -r hooks
