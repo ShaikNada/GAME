@@ -1,4 +1,4 @@
-you found the file and acquired its knowledge.
+you found the file and restored the file and acquired its knowledge.
 And you are ready to continue your journey.
 LEVEL-5
 The next clue you are looking for --
